@@ -1,13 +1,10 @@
 <Version: 1.02>
-/img/pictures/Titulo_Borders.png https://ibb.co/R9pFCKb
 <End of Version>
 
 <Version: 1.03>
-/img/pictures/Titulo_Borders.png https://ibb.co/R9pFCKb
 <End of Version>
 
 <Version: 1.04>
-/img/pictures/Titulo_Borders.png https://i.imgur.com/sjndm1X.png
 <End of Version>
 
 <Version: 1.05>
