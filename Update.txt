@@ -11,6 +11,6 @@
 <End of Version>
 
 <Version: 1.05>
-/img/pictures/Titulo_Borders.png https://i.imgur.com/sjndm1X.png
+/img/pictures/Title_Borders.png https://i.imgur.com/sjndm1X.png
 <End of Version>
 
