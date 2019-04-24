@@ -14,3 +14,6 @@
 /img/pictures/Title_Borders.png https://i.imgur.com/sjndm1X.png
 <End of Version>
 
+<Version: 1.06>
+/img/pictures/Title_Borders.png https://i.imgur.com/HGGdjpn.png
+<End of Version>
