@@ -18,3 +18,8 @@
 /img/pictures/Title_Borders.png https://i.imgur.com/HGGdjpn.png
 /img/update_test.png https://i.imgur.com/mC28bHd.png
 <End of Version>
+
+<Version: 1.07>
+/img/pictures/Titulo_Borders.png https://i.imgur.com/HGGdjpn.png
+/img/update_test.png https://i.imgur.com/FWtJulR.png
+<End of Version>
